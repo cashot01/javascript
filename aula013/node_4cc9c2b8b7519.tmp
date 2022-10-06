@@ -1,0 +1,5 @@
+var c = 8
+while (c>6){
+    console.log('oie tudo panps?')
+    c++ // c= c+1
+}
