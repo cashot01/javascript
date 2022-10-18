@@ -1,5 +1,5 @@
 body{
-  background: rgba(6, 241, 65, 0.822) url(imagens/wallpaper002.jpg)  no-repeat  fixed;
+  background: rgba(6, 241, 65, 0.822) url(imagens/wallpaper001.jpg)  no-repeat  fixed;
   background-size: 100% 100%;
   font: normal 15pt arial; 
 }
@@ -7,11 +7,12 @@ body{
 header { 
     color: white;
     text-align: center;
+    
  
 }
 
-section {
- background: rgb(255, 255, 255);
+main{
+  background: rgb(255, 255, 255);
  border-radius: 15px;
  padding: 15px;
  width: 500px;
