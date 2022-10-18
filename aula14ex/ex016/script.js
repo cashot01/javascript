@@ -30,6 +30,7 @@ function contar() {
         
         }
         res.innerHTML += `\u{1f3c1}`
+        
     }
     
 
